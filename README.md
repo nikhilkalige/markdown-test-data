@@ -1,182 +1,48 @@
-Deutsche Bundesgesetze und -verordnungen
-========================================
-
-Dieses Git Repository enthält alle Deutschen Bundesgesetze und -verordnungen
-im [Markdown-Format](http://daringfireball.net/projects/markdown/). Als Quelle
-dienen die XML-Versionen der Gesetze von
-[www.gesetze-im-internet.de](http://www.gesetze-im-internet.de/).
+# Markdown Test Data
 
 
-Warum Git?
-
-Jeder Bürger kann den aktuellen Stand von Gesetzen sehr einfach online finden.
-Allerdings ist die Entstehung, die historische Entwicklung und die
-Aktualisierung von Gesetzen nicht einfach und frei nachvollziehbar. Das liegt
-daran, dass Gesetze nur in ihrer aktuellsten Version präsentiert werden und
-Änderungen an diesen Gesetzen nicht maschinenlesbar vorliegen. Dies soll hier
-geändert werden: die aktuellste Version eines Gesetzes wird hier mit Git
-versioniert gespeichert. Das erlaubt es, die Mächtigkeit von Git auf Gesetze
-und auf den Gesetzgebungsprozess anzuwenden. Das Einpflegen der kompletten
-deutschen Gesetzesvergangenheit in Git ist das ferne Ziel.
+## Source: [https://github.com/bundestag/gesetze](https://github.com/bundestag/gesetze)
 
 
-Warum Markdown?
----------------
+## Content Details
 
-Gesetze sind Prosa, sie enthalten keine maschinenlesbare Semantik. Eine
-Auszeichnungssprache wie XML verringert die Menschenlesbarkeit, erschwert die
-maschinelle Erkennung von Unterschieden und beinhaltet viel überflüssige
-Syntax.
+---
 
-Markdown ist eine intuitive Formatierung von Text, die ohne zusätzliche
-Programme für Menschen les- und schreibbar ist. Das passt zu Gesetzestexten,
-die nur minimale Formatierung benötigen. Weiterhin lässt sich Markdown in
-andere Formate wie HTML konvertieren und ist damit maschinen-formatierbar.
+#### Total Files:     8660
+#### Markdown Files:   6299
+#### PDF Files:        293
+#### JPG Files:        2013
+#### GIF Files:        55
+#### Total Characters: 150211
 
 
-Pull Requests
--------------
+## Breakdown
 
-Pull Requests können gerne geöffnet werden. Natürlich werden nur solche
-gemergt, die tatsächlich vom Bundestag verabschiedet wurden und Gesetz
-geworden sind.
-
-Dennoch sind Änderungsvorschläge an Gesetzen von Parteien oder aus der
-Zivilgesellschaft als Pull Request nützlich. Die Änderungen lassen sich
-einfacher im Kontext verstehen, können direkt am Gesetz diskutiert und
-nachvollziehbar verändert werden.
-
-Offizielle Gesetzesentwürfe, wenn öffentlich verfügbar, werden vom Fork der
-[Bundesregierung](https://github.com/bundesregierung/) als Pull Request an
-dieses Repository gestellt.
-
-
-Fehler und Bitte um Mithilfe
-----------------------------
-
-Es wird kein Anspruch auf Korrektheit erhoben. Bitte verlassen Sie sich nur
-auf offizielle Quellen.
-
-Die XML-Quelle ist nicht fehlerfrei und die Konvertierung von XML nach
-Markdown ist es auch nicht. Das liegt daran, dass die Gesetze im XML-Format
-das Markup auch für stilistische Auszeichnungen statt nur für semantische
-Auszeichnungen nutzen. Dies erschwert eine Konvertierung und führt zu
-fehlerhaftem Markdown. Da fehlerhaftes Markdown immer noch gut lesbar ist,
-führt dies erst bei einer Weiterverarbeitung zu Problemen.
-
-Commits richten sich nach Möglichkeit nach den Veröffentlichungen im
-Bundesgesetzblatt und im Amtlichen Teil des Bundesanzeigers. Das funktioniert
-nicht immer problemlos und erfordert menschliche Unterstützung.
-Werkzeuge, die die Aktualisierung vereinfachen finden sich im
-[gesetze-tools repository](https://github.com/bundestag/gesetze-tools).
-Mithilfe ist erwünscht.
-
-Um die Fähigkeiten von Git optimal zu nutzen, wird es nötig sein Commits, die
-Gesetzesänderungen einbringen, von Commits, die z.B. Korrekturen an der Syntax
-vornehmen oder die README verändern zu unterscheiden. Hier wird um Mithilfe
-bei der [Ausarbeitung eines Git-Workflows](https://github.com/bundestag/gesetze/wiki/Git-Workflow)
-für dieses Repostiory gebeten.
-
-
-Rechtliches
------------
-
-Gesetze sind amtliche Werke und unterliegen nicht dem Urheberrecht.
-
-
-Kontakt
--------
-
-Twitter: [@bundesgit](https://twitter.com/bundesgit)
-
-
---------
-(english version)
-
-German Federal Laws and Regulations
-===================================
-
-This Git repository contains all German federal laws and regulations in
-[Markdown format](http://daringfireball.net/projects/markdown/). The source
-is the XML version of the laws from
-[www.gesetze-im-internet.de](http://www.gesetze-im-internet.de/).
-
-
-Why Git?
-----------
-
-All German citizens can easily find an up-to-date version of their laws online.
-However, the legislation process, the historic evolution and the updates to laws
-are not easily and freely trackable. The reason is that laws are only published
-in their most recent version and changes to laws are not available in a
-machine-readable format.
-This should change: the current state of laws will be stored in this repository
-under Git version control. This allows the power of Git to be applied to the
-legislation process. Integrating the whole history of German law changes in Git
-is the ambitious goal.
-
-
-Why Markdown?
--------------
-
-Laws are prose, they do not contain machine-readable semantics.
-A complex markup language like XML reduces the human-readability,
-makes detection of differences harder and contains lots of
-unnecessary syntax.
-
-Markdown is an intuitive formatting of text, that is readable and
-writable by humans without the need of additional tools. That fits
-the nature of laws that only need minimal formatting. Furthermore,
-Markdown is machine-formattable and can be converted to other formats
-like HTML.
-
-
-Pull Requests
--------------
-
-You are encouraged to open pull request. Of course only valid legislation
-voted on by the Bundestag will be merged.
-
-However, law change proposals as pull requests coming from parties or
-NGOs can be useful to understand context, discuss changes directly where
-they will happen and keep changes accountable.
-
-Official change proposals from our government will be opened as pull
-requests from the fork of the [Bundesregierung](https://github.com/bundesregierung/)
-as they become publicy available.
-
-
-Mistakes and call for help
---------------------------
-
-There is no guarantee on correctness. Please only trust official sources.
-
-The source XML is not without mistakes and neither is the conversion to
-Markdown. That's because the source XML uses markup for style and not only
-for semantics. This makes conversion harder and comes down to faulty
-Markdown. However, faulty Markdown is still very readable and will only
-cause problems when processed further.
-
-Commits will be based on published changes (Bundesgesetzblatt and Bundesanzeiger).
-That doesn't work without problems and requires human interaction.
-Tools that make updates easier can be found in the
-[gesetze-tools repository](https://github.com/bundestag/gesetze-tools).
-Help needed.
-
-In order to make the most out of Git we need to distinguish between law change
-commits and commits that fix e.g. syntax mistakes.
-Please help shape a [Git Workflow](https://github.com/bundestag/gesetze/wiki/Git-Workflow)
-for this repository.
-
-
-Legal Stuff
------------
-
-All laws are offical works and are not under copyright law.
-
-
-Contact
--------
-
-Twitter: [@bundesgit](https://twitter.com/bundesgit)
-
+| FOLDER | MARKDOWN  | PDF | JPG | GIF | CHARACTERS | TOTAL FILES |
+|:------:|:---------:|:---:|:---:|:---:|:----------:|:-----------:|
+| 1      |  1        | 0   | 0   | 0   |    27      | 1    |
+| a      |  397      | 16  | 108 | 0   |  8957      | 521  |
+| b      |  94       | 12  | 771 | 12  |   231      | 1741 |
+| c      |  43       | 0   | 0   | 0   |  1009      | 43   |
+| d      |  206      | 11  | 3   | 0   |  4832      | 220  |
+| e      |  409      | 15  | 75  | 0   |  9534      | 499  |
+| f      |  294      | 40  | 123 | 1   |  6915      | 458  |
+| g      |  334      | 5   | 3   | 32  |  7944      | 374  |
+| h      |  141      | 0   | 2   | 0   |  3094      | 143  |
+| i      |  164      | 9   | 1   | 0   |  4070      | 174  |
+| j      |  32       | 0   | 24  | 0   |   708      | 56   |
+| k      |  299      | 21  | 2   | 0   |  6858      | 322  |
+| l      |  287      | 6   | 39  | 0   |  6647      | 332  |
+| m      |  407      | 0   | 184 | 0   | 11309      | 591  |
+| n      |  105      | 0   | 0   | 0   | 2468       | 105  |
+| o      |  87       | 0   | 1   | 1   | 2116       | 89   |
+| p      |  256      | 17  | 99  | 0   | 5983       | 372  |
+| q      |  1        | 0   | 0   | 0   |   21       | 1    |
+| r      |  236      | 18  | 0   | 9   | 5323       | 263  |
+| s      |  65       | 59  | 414 | 0   |  157       | 1124 |
+| t      |  155      | 8   | 9   | 0   | 3687       | 172  |
+| u      |  140      | 0   | 2   | 0   | 3171       | 142  |
+| v      |  203      | 0   | 92  | 0   | 4856       | 295  |
+| w      |  384      | 1   | 32  | 0   | 9172       | 417  |
+| y      |  1        | 0   | 0   | 0   |   21       | 1    |
+| z      |  120      | 55  | 29  | 0   | 2588       | 204  |
