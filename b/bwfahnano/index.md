@@ -1,8 +1,8 @@
-Title: Anordnung über die Stiftung der Truppenfahnen für die Bundeswehr
+Title: Anordnung über die Stiftung der Truppenfahnen für die Bundeswehr460
 jurabk: BwFahnAnO
 layout: default
 origslug: bwfahnano
-slug: bwfahnano
+
 
 ---
 

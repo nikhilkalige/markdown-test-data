@@ -1,8 +1,8 @@
-Title: Fünfte Verordnung zur Änderung der Approbationsordnung für Ärzte
+Title: Fünfte Verordnung zur Änderung der Approbationsordnung für Ärzte60
 jurabk: ÄApprOÄndV 5
 layout: default
 origslug: _appro_ndv_5
-slug: aeapproaendv_5
+
 
 ---
 

@@ -1,8 +1,8 @@
-Title: Verordnung über die Gewährleistung von Atomsicherheit und Strahlenschutz
+Title: Verordnung über die Gewährleistung von Atomsicherheit und Strahlenschutz286
 jurabk: AtStrlSV
 layout: default
 origslug: atstrlsv
-slug: atstrlsv
+
 
 ---
 

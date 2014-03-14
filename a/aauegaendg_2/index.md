@@ -1,8 +1,8 @@
-Title: Zweites Gesetz zur Änderung und Ergänzung des Anspruchs- und Anwartschaftsüberführungsgesetzes
+Title: Zweites Gesetz zur Änderung und Ergänzung des Anspruchs- und Anwartschaftsüberführungsgesetzes8
 jurabk: AAÜGÄndG 2
 layout: default
 origslug: aa_g_ndg_2
-slug: aauegaendg_2
+
 
 ---
 

@@ -1,4 +1,4 @@
-Title: Gesetz zur Ausführung zwischenstaatlicher Verträge und zur Durchführung von
+Title: Gesetz zur Ausführung zwischenstaatlicher Verträge und zur Durchführung von598
   Verordnungen und Abkommen der Europäischen Gemeinschaft auf dem Gebiet der Anerkennung
   und Vollstreckung in Zivil- und Handelssachen
 jurabk: AVAG 2001

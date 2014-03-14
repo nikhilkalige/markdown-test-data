@@ -1,8 +1,8 @@
-Title: Gesetz zur Änderung von Kostenvorschriften des Atomgesetzes
+Title: Gesetz zur Änderung von Kostenvorschriften des Atomgesetzes278
 jurabk: AtGKostÄndG
 layout: default
 origslug: atgkost_ndg
-slug: atgkostaendg
+
 
 ---
 

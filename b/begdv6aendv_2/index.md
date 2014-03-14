@@ -1,4 +1,4 @@
-Title: Zweite Verordnung zur Änderung der Sechsten Verordnung zur Durchführung des
+Title: Zweite Verordnung zur Änderung der Sechsten Verordnung zur Durchführung des844
   Bundesentschädigungsgesetzes
 jurabk: BEGDV6ÄndV 2
 layout: default

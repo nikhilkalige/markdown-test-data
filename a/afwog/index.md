@@ -1,8 +1,8 @@
-Title: Gesetz über den Abbau der Fehlsubventionierung im Wohnungswesen
+Title: Gesetz über den Abbau der Fehlsubventionierung im Wohnungswesen94
 jurabk: AFWoG
 layout: default
 origslug: afwog
-slug: afwog
+
 
 ---
 

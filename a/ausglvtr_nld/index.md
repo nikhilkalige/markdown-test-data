@@ -1,4 +1,4 @@
-Title: Vertrag zwischen der Bundesrepublik Deutschland und dem Königreich der Niederlande936
+Title: Vertrag zwischen der Bundesrepublik Deutschland und dem Königreich der Niederlande936812
   zur Regelung von Grenzfragen und anderen zwischen beiden Ländern bestehenden Problemen
   (Ausgleichsvertrag)
 jurabk: AusglVtr NLD

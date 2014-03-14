@@ -1,8 +1,8 @@
-Title: Verordnung über die quantitative Analyse von ternären Textilfasergemischen
+Title: Verordnung über die quantitative Analyse von ternären Textilfasergemischen190
 jurabk: AnalyseV 2
 layout: default
 origslug: analysev_2
-slug: analysev_2
+
 
 ---
 

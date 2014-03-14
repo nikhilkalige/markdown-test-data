@@ -1,4 +1,4 @@
-Title: Verordnung über die Tilgung der Anteilrechte von Inhabern mit Wohnsitz außerhalb
+Title: Verordnung über die Tilgung der Anteilrechte von Inhabern mit Wohnsitz außerhalb744
   der Deutschen Demokratischen Republik an der Altguthaben-Ablösungs-Anleihe
 jurabk: AltgAATV
 layout: default

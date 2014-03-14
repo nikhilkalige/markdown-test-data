@@ -1,4 +1,4 @@
-Title: Gesetz zur Veröffentlichung von Informationen über die Zahlung von Mitteln
+Title: Gesetz zur Veröffentlichung von Informationen über die Zahlung von Mitteln620
   aus den Europäischen Fonds für Landwirtschaft und Fischerei
 jurabk: AFIG
 layout: default

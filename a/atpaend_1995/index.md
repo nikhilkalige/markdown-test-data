@@ -1,4 +1,4 @@
-Title: Änderung vom 24. Februar 1995 des Artikels 18 Absatz 1 und der Anlage 1 Anhang
+Title: Änderung vom 24. Februar 1995 des Artikels 18 Absatz 1 und der Anlage 1 Anhang192
   2 des ATP-Übereinkommens
 jurabk: ATPÄnd 1995
 layout: default

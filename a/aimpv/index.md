@@ -1,8 +1,8 @@
-Title: Verordnung über die Meldepflicht bei Aviärer Influenza beim Menschen
+Title: Verordnung über die Meldepflicht bei Aviärer Influenza beim Menschen118
 jurabk: AIMPV
 layout: default
 origslug: aimpv
-slug: aimpv
+
 
 ---
 

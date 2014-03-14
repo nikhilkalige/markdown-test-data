@@ -1,8 +1,8 @@
-Title: Verordnung über die Arbeitszeit der Beamtinnen und Beamten des Bundes
+Title: Verordnung über die Arbeitszeit der Beamtinnen und Beamten des Bundes392
 jurabk: AZV
 layout: default
 origslug: azv
-slug: azv
+
 
 ---
 

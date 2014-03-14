@@ -1,4 +1,4 @@
-Title: Gesetz über die Erhebung einer Sondersteuer auf alkoholhaltige Süßgetränke
+Title: Gesetz über die Erhebung einer Sondersteuer auf alkoholhaltige Süßgetränke508
   (Alkopops) zum Schutz junger Menschen
 jurabk: AlkopopStG
 layout: default

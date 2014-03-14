@@ -1,4 +1,4 @@
-Title: Verordnung über das Verfahren zur Berechnung des Netto-Mehraufkommens der nach
+Title: Verordnung über das Verfahren zur Berechnung des Netto-Mehraufkommens der nach680
   dem Alkopopsteuergesetz erhobenen Alkopopsteuer
 jurabk: AlkopopStV
 layout: default

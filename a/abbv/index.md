@@ -1,4 +1,4 @@
-Title: Verordnung zur Berechnung von Ablösungsbeträgen nach dem Eisenbahnkreuzungsgesetz,
+Title: Verordnung zur Berechnung von Ablösungsbeträgen nach dem Eisenbahnkreuzungsgesetz,774
   dem Bundesfernstraßengesetz und dem Bundeswasserstraßengesetz
 jurabk: ABBV
 layout: default

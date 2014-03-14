@@ -1,4 +1,4 @@
-Title: Verordnung über die Ausbildungsförderung für die Teilnahme an Vorkursen zur
+Title: Verordnung über die Ausbildungsförderung für die Teilnahme an Vorkursen zur702
   Vorbereitung des Besuchs von Kollegs und Hochschulen
 jurabk: AfögVorkHSV
 layout: default

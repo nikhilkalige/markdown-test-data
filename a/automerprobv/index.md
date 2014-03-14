@@ -1,8 +1,8 @@
-Title: Verordnung über die Entwicklung und Erprobung der Berufsausbildung in der Automatenwirtschaft
+Title: Verordnung über die Entwicklung und Erprobung der Berufsausbildung in der Automatenwirtschaft364
 jurabk: AutomErprobV
 layout: default
 origslug: automerprobv
-slug: automerprobv
+
 
 ---
 

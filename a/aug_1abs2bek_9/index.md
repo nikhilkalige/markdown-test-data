@@ -1,4 +1,4 @@
-Title: Neunte Bekanntmachung über die Feststellung der Gegenseitigkeit gemäß § 1 Abs.
+Title: Neunte Bekanntmachung über die Feststellung der Gegenseitigkeit gemäß § 1 Abs.628
   2 des Auslandsunterhaltsgesetzes
 jurabk: AUG§1Abs2Bek 9
 layout: default

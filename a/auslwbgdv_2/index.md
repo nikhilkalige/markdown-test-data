@@ -1,4 +1,4 @@
-Title: Zweite Durchführungsverordnung zum Bereinigungsgesetz für deutsche Auslandsbonds
+Title: Zweite Durchführungsverordnung zum Bereinigungsgesetz für deutsche Auslandsbonds842
   (Vereinigte Staaten von Amerika)
 jurabk: AuslWBGDV 2
 layout: default

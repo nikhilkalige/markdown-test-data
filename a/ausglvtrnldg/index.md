@@ -1,4 +1,4 @@
-Title: Gesetz zu dem Vertrag vom 8. April 1960 zwischen der Bundesrepublik Deutschland
+Title: Gesetz zu dem Vertrag vom 8. April 1960 zwischen der Bundesrepublik Deutschland568
   und dem Königreich der Niederlande zur Regelung von Grenzfragen und anderen zwischen
   beiden Ländern bestehenden Problemen (Ausgleichsvertrag)
 jurabk: AusglVtrNLDG

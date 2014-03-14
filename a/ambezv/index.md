@@ -1,8 +1,8 @@
-Title: Verordnung über die Bezeichnung der Art der wirksamen Bestandteile von Fertigarzneimitteln
+Title: Verordnung über die Bezeichnung der Art der wirksamen Bestandteile von Fertigarzneimitteln158
 jurabk: AMBezV
 layout: default
 origslug: ambezv
-slug: ambezv
+
 
 ---
 

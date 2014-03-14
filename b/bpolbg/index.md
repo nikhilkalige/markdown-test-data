@@ -1,8 +1,8 @@
-Title: Bundespolizeibeamtengesetz
+Title: Bundespolizeibeamtengesetz452
 jurabk: BPolBG
 layout: default
 origslug: bpolbg
-slug: bpolbg
+
 
 ---
 

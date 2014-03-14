@@ -1,4 +1,4 @@
-Title: Gesetz über die Ausprägung einer 1-DM-Goldmünze und die Errichtung der Stiftung
+Title: Gesetz über die Ausprägung einer 1-DM-Goldmünze und die Errichtung der Stiftung504
   "Geld und Währung"
 jurabk: 1-DM-GoldmünzG
 layout: default

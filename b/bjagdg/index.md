@@ -1,8 +1,8 @@
-Title: Bundesjagdgesetz
+Title: Bundesjagdgesetz446
 jurabk: BJagdG
 layout: default
 origslug: bjagdg
-slug: bjagdg
+
 
 ---
 

@@ -1,8 +1,8 @@
-Title: Arzneimittelpreisverordnung
+Title: Arzneimittelpreisverordnung172
 jurabk: AMPreisV
 layout: default
 origslug: ampreisv
-slug: ampreisv
+
 
 ---
 

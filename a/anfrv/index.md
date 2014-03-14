@@ -1,4 +1,4 @@
-Title: Verordnung zur Verlängerung der Frist für die Stellung von Anträgen nach §
+Title: Verordnung zur Verlängerung der Frist für die Stellung von Anträgen nach §808
   1 Abs. 4 sowie § 10 des Vermögenszuordnungsgesetzes
 jurabk: AnFrV
 layout: default

@@ -1,8 +1,8 @@
-Title: Gesetz zur Neuregelung des Asylverfahrens
+Title: Gesetz zur Neuregelung des Asylverfahrens270
 jurabk: AsylVfGNG
 layout: default
 origslug: asylvfgng
-slug: asylvfgng
+
 
 ---
 

@@ -1,4 +1,4 @@
-Title: Gesetz zu dem Übereinkommen vom 20. Mai 1980 über die Erhaltung der lebenden
+Title: Gesetz zu dem Übereinkommen vom 20. Mai 1980 über die Erhaltung der lebenden552
   Meeresschätze der Antarktis
 jurabk: AntarktMeerSchÜbkG
 layout: default

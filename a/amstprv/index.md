@@ -1,4 +1,4 @@
-Title: Verordnung über die Meisterprüfung in den Teilen III und IV im Handwerk und
+Title: Verordnung über die Meisterprüfung in den Teilen III und IV im Handwerk und728
   in handwerksähnlichen Gewerben
 jurabk: AMstPrV
 layout: default

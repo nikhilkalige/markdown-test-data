@@ -1,4 +1,4 @@
-Title: Gesetz zur Regelung des Eigentums an von landwirtschaftlichen Produktionsgenossenschaften
+Title: Gesetz zur Regelung des Eigentums an von landwirtschaftlichen Produktionsgenossenschaften614
   vorgenommenen Anpflanzungen
 jurabk: AnpflEigentG
 layout: default

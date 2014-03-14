@@ -1,4 +1,4 @@
-Title: Gesetz über Altschuldenhilfen für Kommunale Wohnungsunternehmen, Wohnungsgenossenschaften
+Title: Gesetz über Altschuldenhilfen für Kommunale Wohnungsunternehmen, Wohnungsgenossenschaften496
   und private Vermieter in dem in Artikel 3 des Einigungsvertrages genannten Gebiet
 jurabk: AltSchG
 layout: default

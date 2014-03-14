@@ -1,4 +1,4 @@
-Title: Gesetz über zwingende Arbeitsbedingungen für grenzüberschreitend entsandte
+Title: Gesetz über zwingende Arbeitsbedingungen für grenzüberschreitend entsandte524
   und für regelmäßig im Inland beschäftigte Arbeitnehmer und Arbeitnehmerinnen
 jurabk: AEntG 2009
 layout: default

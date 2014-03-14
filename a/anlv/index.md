@@ -1,8 +1,8 @@
-Title: Verordnung über die Anlage des gebundenen Vermögens von Versicherungsunternehmen
+Title: Verordnung über die Anlage des gebundenen Vermögens von Versicherungsunternehmen196
 jurabk: AnlV
 layout: default
 origslug: anlv
-slug: anlv
+
 
 ---
 

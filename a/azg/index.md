@@ -1,8 +1,8 @@
-Title: Anteilzollgesetz
+Title: Anteilzollgesetz386
 jurabk: AZG
 layout: default
 origslug: azg
-slug: azg
+
 
 ---
 

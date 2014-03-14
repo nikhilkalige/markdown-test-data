@@ -1,8 +1,8 @@
-Title: Verordnung über die Berufsausbildung zum Bauzeichner/zur Bauzeichnerin
+Title: Verordnung über die Berufsausbildung zum Bauzeichner/zur Bauzeichnerin398
 jurabk: BauZAusbV 2002
 layout: default
 origslug: bauzausbv_2002
-slug: bauzausbv_2002
+
 
 ---
 

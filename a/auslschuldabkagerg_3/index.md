@@ -1,4 +1,4 @@
-Title: Drittes Gesetz zur Ergänzung des Gesetzes zur Ausführung des Abkommens vom
+Title: Drittes Gesetz zur Ergänzung des Gesetzes zur Ausführung des Abkommens vom472
   27. Februar 1953 über deutsche Auslandsschulden
 jurabk: AuslSchuldAbkAGErG 3
 layout: default

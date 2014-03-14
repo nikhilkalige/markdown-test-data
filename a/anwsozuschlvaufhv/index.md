@@ -1,8 +1,8 @@
-Title: Anwärtersonderzuschlags-Verordnung
+Title: Anwärtersonderzuschlags-Verordnung212
 jurabk: AnwSoZuschlVAufhV
 layout: default
 origslug: anwsozuschlvaufhv
-slug: anwsozuschlvaufhv
+
 
 ---
 

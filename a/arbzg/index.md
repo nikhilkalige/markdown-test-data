@@ -1,8 +1,8 @@
-Title: Arbeitszeitgesetz
+Title: Arbeitszeitgesetz240
 jurabk: ArbZG
 layout: default
 origslug: arbzg
-slug: arbzg
+
 
 ---
 

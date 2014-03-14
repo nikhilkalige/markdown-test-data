@@ -1,4 +1,4 @@
-Title: Verordnung über die Zuständigkeit der Verwaltungsbehörden der Kriegsopferversorgung
+Title: Verordnung über die Zuständigkeit der Verwaltungsbehörden der Kriegsopferversorgung756
   für Berechtigte im Ausland
 jurabk: AuslZustV
 layout: default

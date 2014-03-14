@@ -1,4 +1,4 @@
-Title: Gesetz über den Aufenthalt, die Erwerbstätigkeit und die Integration von Ausländern
+Title: Gesetz über den Aufenthalt, die Erwerbstätigkeit und die Integration von Ausländern500
   im Bundesgebiet
 jurabk: AufenthG 2004
 layout: default

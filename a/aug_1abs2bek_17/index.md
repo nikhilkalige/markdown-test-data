@@ -1,4 +1,4 @@
-Title: Siebzehnte Bekanntmachung über die Feststellung der Gegenseitigkeit gemäß §
+Title: Siebzehnte Bekanntmachung über die Feststellung der Gegenseitigkeit gemäß §648
   1 Abs. 2 des Auslandsunterhaltsgesetzes
 jurabk: AUG§1Abs2Bek 17
 layout: default

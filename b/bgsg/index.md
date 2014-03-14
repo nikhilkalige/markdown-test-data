@@ -1,8 +1,8 @@
-Title: Gesetz über den Bundesgrenzschutz
+Title: Gesetz über den Bundesgrenzschutz436
 jurabk: BGSG
 layout: default
 origslug: bgsg
-slug: bgsg
+
 
 ---
 

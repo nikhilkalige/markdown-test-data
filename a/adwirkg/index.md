@@ -1,8 +1,8 @@
-Title: Gesetz über Wirkungen der Annahme als Kind nach ausländischem Recht
+Title: Gesetz über Wirkungen der Annahme als Kind nach ausländischem Recht52
 jurabk: AdWirkG
 layout: default
 origslug: adwirkg
-slug: adwirkg
+
 
 ---
 

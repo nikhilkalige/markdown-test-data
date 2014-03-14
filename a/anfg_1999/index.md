@@ -1,4 +1,4 @@
-Title: Gesetz über die Anfechtung von Rechtshandlungen eines Schuldners außerhalb
+Title: Gesetz über die Anfechtung von Rechtshandlungen eines Schuldners außerhalb502
   des Insolvenzverfahrens
 jurabk: AnfG 1999
 layout: default

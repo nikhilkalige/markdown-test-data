@@ -1,8 +1,8 @@
-Title: Verordnung über Allgemeine Bedingungen für die Versorgung mit Wasser
+Title: Verordnung über Allgemeine Bedingungen für die Versorgung mit Wasser372
 jurabk: AVBWasserV
 layout: default
 origslug: avbwasserv
-slug: avbwasserv
+
 
 ---
 

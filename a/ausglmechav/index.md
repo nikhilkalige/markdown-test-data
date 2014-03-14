@@ -1,4 +1,4 @@
-Title: Verordnung zur Ausführung der Verordnung zur Weiterentwicklung des bundesweiten
+Title: Verordnung zur Ausführung der Verordnung zur Weiterentwicklung des bundesweiten772
   Ausgleichsmechanismus
 jurabk: AusglMechAV
 layout: default

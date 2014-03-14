@@ -1,8 +1,8 @@
-Title: Gesetz über die Akkreditierungsstelle
+Title: Gesetz über die Akkreditierungsstelle120
 jurabk: AkkStelleG
 layout: default
 origslug: akkstelleg
-slug: akkstelleg
+
 
 ---
 

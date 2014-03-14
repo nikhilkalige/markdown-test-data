@@ -1,8 +1,8 @@
-Title: Allgemeines Eisenbahngesetz
+Title: Allgemeines Eisenbahngesetz68
 jurabk: AEG
 layout: default
 origslug: aeg
-slug: aeg
+
 
 ---
 

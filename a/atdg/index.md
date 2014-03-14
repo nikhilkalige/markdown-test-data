@@ -1,4 +1,4 @@
-Title: Gesetz zur Errichtung einer standardisierten zentralen Antiterrordatei von
+Title: Gesetz zur Errichtung einer standardisierten zentralen Antiterrordatei von606
   Polizeibehörden und Nachrichtendiensten von Bund und Ländern
 jurabk: ATDG
 layout: default

@@ -1,4 +1,4 @@
-Title: Aromenverordnung (Artikel 22 d. Verordnung zur Neuordnung lebensmittelrechtlicher
+Title: Aromenverordnung (Artikel 22 d. Verordnung zur Neuordnung lebensmittelrechtlicher254
   Kennzeichnungsvorschriften)
 jurabk: AromV
 layout: default

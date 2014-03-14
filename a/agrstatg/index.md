@@ -1,8 +1,8 @@
-Title: Gesetz über Agrarstatistiken
+Title: Gesetz über Agrarstatistiken110
 jurabk: AgrStatG
 layout: default
 origslug: agrstatg
-slug: agrstatg
+
 
 ---
 

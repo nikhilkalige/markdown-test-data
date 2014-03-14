@@ -1,4 +1,4 @@
-Title: Gesetz zu dem Vierten AKP-EWG-Abkommen von Lome vom 15. Dezember 1989 sowie
+Title: Gesetz zu dem Vierten AKP-EWG-Abkommen von Lome vom 15. Dezember 1989 sowie572
   zu den mit diesem Abkommen in Zusammenhang stehenden Abkommen
 jurabk: AKP/EWGAbk4G
 layout: default

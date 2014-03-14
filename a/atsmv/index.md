@@ -1,4 +1,4 @@
-Title: Verordnung über den kerntechnischen Sicherheitsbeauftragten und über die Meldung
+Title: Verordnung über den kerntechnischen Sicherheitsbeauftragten und über die Meldung684
   von Störfällen und sonstigen Ereignissen
 jurabk: AtSMV
 layout: default

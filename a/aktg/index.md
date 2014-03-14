@@ -1,8 +1,8 @@
-Title: Aktiengesetz
+Title: Aktiengesetz132
 jurabk: AktG
 layout: default
 origslug: aktg
-slug: aktg
+
 
 ---
 

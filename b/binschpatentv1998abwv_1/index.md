@@ -1,8 +1,8 @@
-Title: Erste Verordnung zur vorübergehenden Abweichung von der Binnenschifferpatentverordnung
+Title: Erste Verordnung zur vorübergehenden Abweichung von der Binnenschifferpatentverordnung440
 jurabk: BinSchPatentV1998AbwV 1
 layout: default
 origslug: binschpatentv1998abwv_1
-slug: binschpatentv1998abwv_1
+
 
 ---
 

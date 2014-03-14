@@ -1,8 +1,8 @@
-Title: Siebente Verordnung zur Änderung der Approbationsordnung für Ärzte
+Title: Siebente Verordnung zur Änderung der Approbationsordnung für Ärzte62
 jurabk: ÄApprOÄndV 7
 layout: default
 origslug: _appro_ndv_7
-slug: aeapproaendv_7
+
 
 ---
 

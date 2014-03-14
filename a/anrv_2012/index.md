@@ -1,8 +1,8 @@
-Title: Vierundvierzigste Verordnung über das anzurechnende Einkommen nach dem Bundesversorgungsgesetz
+Title: Vierundvierzigste Verordnung über das anzurechnende Einkommen nach dem Bundesversorgungsgesetz206
 jurabk: AnrV 2012
 layout: default
 origslug: anrv_2012
-slug: anrv_2012
+
 
 ---
 

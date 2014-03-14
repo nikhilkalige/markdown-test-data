@@ -1,8 +1,8 @@
-Title: Bekanntmachung über den Dienstsitz des Bundeskartellamtes
+Title: Bekanntmachung über den Dienstsitz des Bundeskartellamtes448
 jurabk: BKartASitzBek
 layout: default
 origslug: bkartasitzbek
-slug: bkartasitzbek
+
 
 ---
 

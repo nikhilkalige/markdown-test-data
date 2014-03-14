@@ -1,4 +1,4 @@
-Title: Gesetz zur Regelung der Altschulden für gesellschaftliche Einrichtungen, zur
+Title: Gesetz zur Regelung der Altschulden für gesellschaftliche Einrichtungen, zur612
   Änderung des Erblastentilgungsfonds-Gesetzes und zur Änderung des Investitionsförderungsgesetzes
   Aufbau Ost
 jurabk: ARGEuaÄndG

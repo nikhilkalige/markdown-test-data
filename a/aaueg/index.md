@@ -1,4 +1,4 @@
-Title: Gesetz zur Überführung der Ansprüche und Anwartschaften aus Zusatz- und Sonderversorgungssystemen
+Title: Gesetz zur Überführung der Ansprüche und Anwartschaften aus Zusatz- und Sonderversorgungssystemen618
   des Beitrittsgebiets
 jurabk: AAÜG
 layout: default

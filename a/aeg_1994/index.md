@@ -1,8 +1,8 @@
-Title: Allgemeines Eisenbahngesetz
+Title: Allgemeines Eisenbahngesetz70
 jurabk: AEG 1994
 layout: default
 origslug: aeg_1994
-slug: aeg_1994
+
 
 ---
 

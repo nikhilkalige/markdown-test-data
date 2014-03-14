@@ -1,4 +1,4 @@
-Title: Verordnung zur Regelung der Rechtsverhältnisse des Personals der Deutschen
+Title: Verordnung zur Regelung der Rechtsverhältnisse des Personals der Deutschen802
   Bundesbank
 jurabk: BBankPersV
 layout: default

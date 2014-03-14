@@ -1,8 +1,8 @@
-Title: Verordnung zum Schutz gegen die Aujeszkysche Krankheit
+Title: Verordnung zum Schutz gegen die Aujeszkysche Krankheit310
 jurabk: AujeszkKrV
 layout: default
 origslug: aujeszkkrv
-slug: aujeszkkrv
+
 
 ---
 

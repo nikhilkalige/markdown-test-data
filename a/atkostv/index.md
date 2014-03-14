@@ -1,8 +1,8 @@
-Title: Kostenverordnung zum Atomgesetz
+Title: Kostenverordnung zum Atomgesetz284
 jurabk: AtKostV
 layout: default
 origslug: atkostv
-slug: atkostv
+
 
 ---
 

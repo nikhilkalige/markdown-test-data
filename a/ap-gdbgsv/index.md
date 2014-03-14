@@ -1,4 +1,4 @@
-Title: Verordnung über die Ausbildung und Prüfung für den gehobenen Polizeivollzugsdienst
+Title: Verordnung über die Ausbildung und Prüfung für den gehobenen Polizeivollzugsdienst696
   in der Bundespolizei
 jurabk: AP-gDBGSV
 layout: default

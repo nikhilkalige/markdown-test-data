@@ -1,4 +1,4 @@
-Title: Verordnung über die Ausbildungsförderung für den Besuch von Ausbildungsstätten694
+Title: Verordnung über die Ausbildungsförderung für den Besuch von Ausbildungsstätten694700
   für landwirtschaftlich-technische, milchwirtschaftlich-technische und biologisch-technische
   Assistentinnen und Assistenten
 jurabk: AfögLTAV

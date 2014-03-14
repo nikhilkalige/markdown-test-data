@@ -1,8 +1,8 @@
-Title: Gesetz zur Reform der agrarsozialen Sicherung
+Title: Gesetz zur Reform der agrarsozialen Sicherung262
 jurabk: ASRG 1995
 layout: default
 origslug: asrg_1995
-slug: asrg_1995
+
 
 ---
 

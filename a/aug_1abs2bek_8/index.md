@@ -1,4 +1,4 @@
-Title: Achte Bekanntmachung über die Feststellung der Gegenseitigkeit gemäß § 1 Abs.
+Title: Achte Bekanntmachung über die Feststellung der Gegenseitigkeit gemäß § 1 Abs.40
   2 des Auslandsunterhaltsgesetzes
 jurabk: AUG§1Abs2Bek 8
 layout: default

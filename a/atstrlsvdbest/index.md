@@ -1,4 +1,4 @@
-Title: Durchführungsbestimmung zur Verordnung über die Gewährleistung von Atomsicherheit
+Title: Durchführungsbestimmung zur Verordnung über die Gewährleistung von Atomsicherheit474
   und Strahlenschutz
 jurabk: AtStrlSVDBest
 layout: default

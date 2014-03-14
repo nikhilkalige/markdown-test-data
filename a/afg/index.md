@@ -1,8 +1,8 @@
-Title: Arbeitsförderungsgesetz
+Title: Arbeitsförderungsgesetz82
 jurabk: AFG
 layout: default
 origslug: afg
-slug: afg
+
 
 ---
 

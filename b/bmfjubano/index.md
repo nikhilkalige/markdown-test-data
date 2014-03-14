@@ -1,4 +1,4 @@
-Title: Anordnung über die Übertragung der Befugnis zu Entscheidungen über Jubiläumszuwendungen133
+Title: Anordnung über die Übertragung der Befugnis zu Entscheidungen über Jubiläumszuwendungen133200
   an Beamte im Geschäftsbereich des Bundesministers der Finanzen
 jurabk: BMFJubAnO
 layout: default

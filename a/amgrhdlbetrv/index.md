@@ -1,8 +1,8 @@
-Title: Verordnung über den Großhandel und die Arzneimittelvermittlung
+Title: Verordnung über den Großhandel und die Arzneimittelvermittlung170
 jurabk: AMGrHdlBetrV
 layout: default
 origslug: amgrhdlbetrv
-slug: amgrhdlbetrv
+
 
 ---
 

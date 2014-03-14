@@ -1,8 +1,8 @@
-Title: Gesetz über die Rechtsstellung vorgeprüfter Apothekeranwärter
+Title: Gesetz über die Rechtsstellung vorgeprüfter Apothekeranwärter220
 jurabk: ApoAnwRstG
 layout: default
 origslug: apoanwrstg
-slug: apoanwrstg
+
 
 ---
 

@@ -1,8 +1,8 @@
-Title: Verordnung über Abrechnungsstellen im Scheckverkehr
+Title: Verordnung über Abrechnungsstellen im Scheckverkehr32
 jurabk: AbrStV
 layout: default
 origslug: abrstv
-slug: abrstv
+
 
 ---
 

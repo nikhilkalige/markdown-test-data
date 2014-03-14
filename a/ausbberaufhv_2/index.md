@@ -1,8 +1,8 @@
-Title: Zweite Verordnung über die Aufhebung der Anerkennung von Ausbildungsberufen
+Title: Zweite Verordnung über die Aufhebung der Anerkennung von Ausbildungsberufen316
 jurabk: AusbBerAufhV 2
 layout: default
 origslug: ausbberaufhv_2
-slug: ausbberaufhv_2
+
 
 ---
 

@@ -1,8 +1,8 @@
-Title: Anordnung zur Durchführung der Bundesdisziplinarordnung für den Bundesgrenzschutz
+Title: Anordnung zur Durchführung der Bundesdisziplinarordnung für den Bundesgrenzschutz434
 jurabk: BGSBDODAnO 1999
 layout: default
 origslug: bgsbdodano_1999
-slug: bgsbdodano_1999
+
 
 ---
 

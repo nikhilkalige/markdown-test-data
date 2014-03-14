@@ -1,8 +1,8 @@
-Title: Berufsbildungsgesetz
+Title: Berufsbildungsgesetz400
 jurabk: BBiG 2005
 layout: default
 origslug: bbig_2005
-slug: bbig_2005
+
 
 ---
 

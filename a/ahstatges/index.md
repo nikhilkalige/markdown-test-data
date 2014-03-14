@@ -1,8 +1,8 @@
-Title: Gesetz über die Statistik des grenzüberschreitenden Warenverkehrs
+Title: Gesetz über die Statistik des grenzüberschreitenden Warenverkehrs116
 jurabk: AHStatGes
 layout: default
 origslug: ahstatges
-slug: ahstatges
+
 
 ---
 

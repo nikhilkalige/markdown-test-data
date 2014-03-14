@@ -1,8 +1,8 @@
-Title: Achte Verordnung zur Änderung der Arbeitszeitverordnung
+Title: Achte Verordnung zur Änderung der Arbeitszeitverordnung244
 jurabk: ArbZVÄndV 8
 layout: default
 origslug: arbzv_ndv_8
-slug: arbzvaendv_8
+
 
 ---
 

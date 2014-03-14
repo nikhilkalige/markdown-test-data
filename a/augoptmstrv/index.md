@@ -1,4 +1,4 @@
-Title: Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen655
+Title: Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen655672
   in den Teilen I und II der Meisterprüfung im Augenoptiker-Handwerk
 jurabk: AugOptMstrV
 layout: default

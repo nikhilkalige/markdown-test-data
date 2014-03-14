@@ -1,4 +1,4 @@
-Title: Gesetz zu dem Abkommen vom 20. März 1995 zwischen der Bundesrepublik Deutschland528
+Title: Gesetz zu dem Abkommen vom 20. März 1995 zwischen der Bundesrepublik Deutschland528528
   und der Republik Polen über den Autobahnzusammenschluß sowie über den Bau und den
   Umbau einer Grenzbrücke im Raum Forst und Erlenholz (Olszyna)
 jurabk: ABZusForstAbkPOLG

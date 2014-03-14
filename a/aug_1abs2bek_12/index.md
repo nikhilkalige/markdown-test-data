@@ -1,4 +1,4 @@
-Title: Zwölfte Bekanntmachung über die Feststellung der Gegenseitigkeit gemäß § 1
+Title: Zwölfte Bekanntmachung über die Feststellung der Gegenseitigkeit gemäß § 1852
   Abs. 2 des Auslandsunterhaltsgesetzes
 jurabk: AUG§1Abs2Bek 12
 layout: default

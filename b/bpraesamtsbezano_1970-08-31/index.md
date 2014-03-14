@@ -1,8 +1,8 @@
-Title: Anordnung des Bundespräsidenten über die Festsetzung einer Amtsbezeichnung
+Title: Anordnung des Bundespräsidenten über die Festsetzung einer Amtsbezeichnung454
 jurabk: BPräsAmtsbezAnO 1970-08-31
 layout: default
 origslug: bpr_samtsbezano_1970-08-31
-slug: bpraesamtsbezano_1970-08-31
+
 
 ---
 

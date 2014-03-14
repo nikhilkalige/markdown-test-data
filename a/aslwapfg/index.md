@@ -1,4 +1,4 @@
-Title: Gesetz zur Förderung der agrarstrukturellen und agrarsozialen Anpassung der
+Title: Gesetz zur Förderung der agrarstrukturellen und agrarsozialen Anpassung der608
   Landwirtschaft der DDR an die soziale Marktwirtschaft - Fördergesetz -
 jurabk: ASLwApFG
 layout: default

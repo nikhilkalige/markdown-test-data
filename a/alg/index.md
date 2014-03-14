@@ -1,8 +1,8 @@
-Title: Gesetz über die Alterssicherung der Landwirte
+Title: Gesetz über die Alterssicherung der Landwirte136
 jurabk: ALG
 layout: default
 origslug: alg
-slug: alg
+
 
 ---
 

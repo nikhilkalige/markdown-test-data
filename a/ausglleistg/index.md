@@ -1,4 +1,4 @@
-Title: Gesetz über staatliche Ausgleichsleistungen für Enteignungen auf besatzungsrechtlicher
+Title: Gesetz über staatliche Ausgleichsleistungen für Enteignungen auf besatzungsrechtlicher522
   oder besatzungshoheitlicher Grundlage, die nicht mehr rückgängig gemacht werden
   können
 jurabk: AusglLeistG

@@ -1,4 +1,4 @@
-Title: Verordnung zur Berechnung von Einkommen sowie zur Nichtberücksichtigung von
+Title: Verordnung zur Berechnung von Einkommen sowie zur Nichtberücksichtigung von776
   Einkommen und Vermögen beim Arbeitslosengeld II/Sozialgeld
 jurabk: AlgIIV 2008
 layout: default

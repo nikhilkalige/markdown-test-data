@@ -1,8 +1,8 @@
-Title: Verordnung über die Angabe von Arzneimittelbestandteilen
+Title: Verordnung über die Angabe von Arzneimittelbestandteilen162
 jurabk: AMBtAngV
 layout: default
 origslug: ambtangv
-slug: ambtangv
+
 
 ---
 

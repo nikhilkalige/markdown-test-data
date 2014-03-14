@@ -1,4 +1,4 @@
-Title: Verordnung über zwingende Arbeitsbedingungen für Aus- und Weiterbildungsdienstleistungen
+Title: Verordnung über zwingende Arbeitsbedingungen für Aus- und Weiterbildungsdienstleistungen770
   nach dem Zweiten oder Dritten Buch Sozialgesetzbuch
 jurabk: AusbDienstLArbbV
 layout: default

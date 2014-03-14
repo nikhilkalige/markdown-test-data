@@ -1,8 +1,8 @@
-Title: Einführungsgesetz zum Aktiengesetz
+Title: Einführungsgesetz zum Aktiengesetz134
 jurabk: AktGEG
 layout: default
 origslug: aktgeg
-slug: aktgeg
+
 
 ---
 

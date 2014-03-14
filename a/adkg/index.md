@@ -1,8 +1,8 @@
-Title: Gesetz zur Errichtung der Akademie der Künste
+Title: Gesetz zur Errichtung der Akademie der Künste50
 jurabk: AdKG
 layout: default
 origslug: adkg
-slug: adkg
+
 
 ---
 

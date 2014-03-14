@@ -1,8 +1,8 @@
-Title: Zweite Verordnung zur Durchführung des Gesetzes über Arbeitnehmererfindungen
+Title: Zweite Verordnung zur Durchführung des Gesetzes über Arbeitnehmererfindungen232
 jurabk: ArbnErfGDV 2
 layout: default
 origslug: arbnerfgdv_2
-slug: arbnerfgdv_2
+
 
 ---
 

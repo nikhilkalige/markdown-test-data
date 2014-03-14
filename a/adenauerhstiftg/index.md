@@ -1,8 +1,8 @@
-Title: Gesetz über die Errichtung einer Stiftung Bundeskanzler-Adenauer-Haus
+Title: Gesetz über die Errichtung einer Stiftung Bundeskanzler-Adenauer-Haus46
 jurabk: AdenauerHStiftG
 layout: default
 origslug: adenauerhstiftg
-slug: adenauerhstiftg
+
 
 ---
 

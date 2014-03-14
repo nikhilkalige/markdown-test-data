@@ -1,8 +1,8 @@
-Title: Vierte Verordnung zur Änderung der Approbationsordnung für Ärzte
+Title: Vierte Verordnung zur Änderung der Approbationsordnung für Ärzte58
 jurabk: ÄApprOÄndV 4
 layout: default
 origslug: _appro_ndv_4
-slug: aeapproaendv_4
+
 
 ---
 

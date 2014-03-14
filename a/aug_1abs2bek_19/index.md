@@ -1,4 +1,4 @@
-Title: Neunzehnte Bekanntmachung über die Feststellung der Gegenseitigkeit gemäß §
+Title: Neunzehnte Bekanntmachung über die Feststellung der Gegenseitigkeit gemäß §632
   1 Abs. 2 des Auslandsunterhaltsgesetzes
 jurabk: AUG§1Abs2Bek 19
 layout: default

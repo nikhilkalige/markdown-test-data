@@ -1,8 +1,8 @@
-Title: Verordnung über die Anwendung bienengefährlicher Pflanzenschutzmittel
+Title: Verordnung über die Anwendung bienengefährlicher Pflanzenschutzmittel438
 jurabk: BienSchV 1992
 layout: default
 origslug: bienschv_1992
-slug: bienschv_1992
+
 
 ---
 

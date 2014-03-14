@@ -1,4 +1,4 @@
-Title: Gesetz zu dem Übereinkommen vom 4. August 1963 zur Errichtung der Afrikanischen
+Title: Gesetz zu dem Übereinkommen vom 4. August 1963 zur Errichtung der Afrikanischen560
   Entwicklungsbank
 jurabk: AfrEntwBkÜbkG
 layout: default

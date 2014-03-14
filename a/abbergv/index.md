@@ -1,8 +1,8 @@
-Title: Bergverordnung für alle bergbaulichen Bereiche
+Title: Bergverordnung für alle bergbaulichen Bereiche12
 jurabk: ABBergV
 layout: default
 origslug: abbergv
-slug: abbergv
+
 
 ---
 

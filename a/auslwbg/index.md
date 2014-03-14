@@ -1,4 +1,4 @@
-Title: Gesetz zur Bereinigung von deutschen Schuldverschreibungen, die auf ausländische
+Title: Gesetz zur Bereinigung von deutschen Schuldverschreibungen, die auf ausländische600
   Währung lauten
 jurabk: AuslWBG
 layout: default

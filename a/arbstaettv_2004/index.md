@@ -1,8 +1,8 @@
-Title: Verordnung über Arbeitsstätten
+Title: Verordnung über Arbeitsstätten238
 jurabk: ArbStättV 2004
 layout: default
 origslug: arbst_ttv_2004
-slug: arbstaettv_2004
+
 
 ---
 

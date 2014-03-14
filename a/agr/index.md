@@ -1,8 +1,8 @@
-Title: Europäisches Übereinkommen über die Hauptstraßen des internationalen Verkehrs
+Title: Europäisches Übereinkommen über die Hauptstraßen des internationalen Verkehrs104
 jurabk: AGR
 layout: default
 origslug: agr
-slug: agr
+
 
 ---
 

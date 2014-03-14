@@ -1,4 +1,4 @@
-Title: Protokoll zum Abkommen zwischen der Bundesrepublik Deutschland und der Republik559
+Title: Protokoll zum Abkommen zwischen der Bundesrepublik Deutschland und der Republik559636
   Polen über den Autobahnzusammenschluß sowie über den Bau und den Umbau einer Grenzbrücke
   im Raum Forst und Erlenholz (Olszyna)
 jurabk: ABZusForstAbkPOLProt

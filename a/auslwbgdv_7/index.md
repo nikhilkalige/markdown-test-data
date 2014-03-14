@@ -1,4 +1,4 @@
-Title: Siebente Durchführungsverordnung (Stichtag) zum Bereinigungsgesetz für deutsche
+Title: Siebente Durchführungsverordnung (Stichtag) zum Bereinigungsgesetz für deutsche646
   Auslandsbonds
 jurabk: AuslWBGDV 7
 layout: default

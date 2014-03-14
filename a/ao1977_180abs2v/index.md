@@ -1,4 +1,4 @@
-Title: Verordnung über die gesonderte Feststellung von Besteuerungsgrundlagen nach
+Title: Verordnung über die gesonderte Feststellung von Besteuerungsgrundlagen nach724
   § 180 Abs. 2 der Abgabenordnung
 jurabk: AO1977§180Abs2V
 layout: default

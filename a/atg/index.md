@@ -1,4 +1,4 @@
-Title: Gesetz über die friedliche Verwendung der Kernenergie und den Schutz gegen
+Title: Gesetz über die friedliche Verwendung der Kernenergie und den Schutz gegen510
   ihre Gefahren
 jurabk: AtG
 layout: default

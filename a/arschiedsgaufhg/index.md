@@ -1,4 +1,4 @@
-Title: Gesetz zur Aufhebung des Gesetzes über die Errichtung und das Verfahren der
+Title: Gesetz zur Aufhebung des Gesetzes über die Errichtung und das Verfahren der588
   Schiedsstellen für Arbeitsrecht und zur Änderung des Arbeitsförderungsgesetzes
 jurabk: ARSchiedsGAufhG
 layout: default

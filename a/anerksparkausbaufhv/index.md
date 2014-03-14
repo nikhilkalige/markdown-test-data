@@ -1,4 +1,4 @@
-Title: Verordnung über die Aufhebung der staatlichen Anerkennung des Ausbildungsberufs
+Title: Verordnung über die Aufhebung der staatlichen Anerkennung des Ausbildungsberufs694
   Sparkassenkaufmann/Sparkassenkauffrau
 jurabk: AnerkSparkAusbAufhV
 layout: default

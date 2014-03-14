@@ -1,8 +1,8 @@
-Title: Gesetz über Rabatte für Arzneimittel
+Title: Gesetz über Rabatte für Arzneimittel174
 jurabk: AMRabG
 layout: default
 origslug: amrabg
-slug: amrabg
+
 
 ---
 

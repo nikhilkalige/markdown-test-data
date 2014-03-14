@@ -1,8 +1,8 @@
-Title: Gesetz über Arbeitnehmererfindungen
+Title: Gesetz über Arbeitnehmererfindungen230
 jurabk: ArbnErfG
 layout: default
 origslug: arbnerfg
-slug: arbnerfg
+
 
 ---
 

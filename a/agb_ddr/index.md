@@ -1,8 +1,8 @@
-Title: Arbeitsgesetzbuch der Deutschen Demokratischen Republik
+Title: Arbeitsgesetzbuch der Deutschen Demokratischen Republik96
 jurabk: AGB DDR
 layout: default
 origslug: agb_ddr
-slug: agb_ddr
+
 
 ---
 

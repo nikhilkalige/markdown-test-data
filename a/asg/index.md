@@ -1,4 +1,4 @@
-Title: Gesetz zur Sicherstellung von Arbeitsleistungen für Zwecke der Verteidigung
+Title: Gesetz zur Sicherstellung von Arbeitsleistungen für Zwecke der Verteidigung616
   einschließlich des Schutzes der Zivilbevölkerung
 jurabk: ASG
 layout: default

@@ -1,8 +1,8 @@
-Title: Gesetz zum Schutze der Auswanderer
+Title: Gesetz zum Schutze der Auswanderer360
 jurabk: AuswSG
 layout: default
 origslug: auswsg
-slug: auswsg
+
 
 ---
 

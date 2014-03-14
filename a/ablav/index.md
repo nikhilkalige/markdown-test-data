@@ -1,8 +1,8 @@
-Title: Verordnung über Vereinbarungen zu abschaltbaren Lasten
+Title: Verordnung über Vereinbarungen zu abschaltbaren Lasten30
 jurabk: AbLaV
 layout: default
 origslug: ablav
-slug: ablav
+
 
 ---
 

@@ -1,4 +1,4 @@
-Title: Achtzehnte Bekanntmachung über die Feststellung der Gegenseitigkeit gemäß §
+Title: Achtzehnte Bekanntmachung über die Feststellung der Gegenseitigkeit gemäß §44
   1 Abs. 2 des Auslandsunterhaltsgesetzes
 jurabk: AUG§1Abs2Bek 18
 layout: default

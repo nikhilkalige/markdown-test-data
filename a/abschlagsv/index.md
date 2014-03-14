@@ -1,8 +1,8 @@
-Title: Verordnung über Abschlagszahlungen bei Bauträgerverträgen
+Title: Verordnung über Abschlagszahlungen bei Bauträgerverträgen34
 jurabk: AbschlagsV
 layout: default
 origslug: abschlagsv
-slug: abschlagsv
+
 
 ---
 

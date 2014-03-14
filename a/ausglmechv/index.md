@@ -1,8 +1,8 @@
-Title: Verordnung zur Weiterentwicklung des bundesweiten Ausgleichsmechanismus
+Title: Verordnung zur Weiterentwicklung des bundesweiten Ausgleichsmechanismus338
 jurabk: AusglMechV
 layout: default
 origslug: ausglmechv
-slug: ausglmechv
+
 
 ---
 

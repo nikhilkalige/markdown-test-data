@@ -1,4 +1,4 @@
-Title: Zehnte Bekanntmachung über die Feststellung der Gegenseitigkeit gemäß § 1 Abs.
+Title: Zehnte Bekanntmachung über die Feststellung der Gegenseitigkeit gemäß § 1 Abs.828
   2 des Auslandsunterhaltsgesetzes
 jurabk: AUG§1Abs2Bek 10
 layout: default

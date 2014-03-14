@@ -1,4 +1,4 @@
-Title: Zwanzigste Bekanntmachung über die Feststellung der Gegenseitigkeit gemäß §
+Title: Zwanzigste Bekanntmachung über die Feststellung der Gegenseitigkeit gemäß §840
   1 Abs. 2 des Auslandsunterhaltsgesetzes
 jurabk: AUG§1Abs2Bek 20
 layout: default

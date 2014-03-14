@@ -1,4 +1,4 @@
-Title: Verordnung über den Nachweis der Sachkenntnis im Einzelhandel mit freiverkäuflichen
+Title: Verordnung über den Nachweis der Sachkenntnis im Einzelhandel mit freiverkäuflichen686
   Arzneimitteln
 jurabk: AMSachKV
 layout: default

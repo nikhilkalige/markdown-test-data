@@ -1,8 +1,8 @@
-Title: Gesetz zur Regelung der Altschulden für gesellschaftliche Einrichtungen
+Title: Gesetz zur Regelung der Altschulden für gesellschaftliche Einrichtungen250
 jurabk: ARG
 layout: default
 origslug: arg
-slug: arg
+
 
 ---
 

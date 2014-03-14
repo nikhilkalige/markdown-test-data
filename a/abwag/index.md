@@ -1,8 +1,8 @@
-Title: Gesetz über Abgaben für das Einleiten von Abwasser in Gewässer
+Title: Gesetz über Abgaben für das Einleiten von Abwasser in Gewässer36
 jurabk: AbwAG
 layout: default
 origslug: abwag
-slug: abwag
+
 
 ---
 

@@ -1,8 +1,8 @@
-Title: Verordnung zur Durchführung des § 82 des Zwölften Buches Sozialgesetzbuch
+Title: Verordnung zur Durchführung des § 82 des Zwölften Buches Sozialgesetzbuch456
 jurabk: BSHG§76DV
 layout: default
 origslug: bshg_76dv
-slug: bshg_76dv
+
 
 ---
 

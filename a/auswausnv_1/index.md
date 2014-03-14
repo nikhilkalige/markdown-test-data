@@ -1,8 +1,8 @@
-Title: Erste Verordnung über Ausnahmen von dem Verbot der auslandsunterstützten Auswanderung
+Title: Erste Verordnung über Ausnahmen von dem Verbot der auslandsunterstützten Auswanderung358
 jurabk: AuswAusnV 1
 layout: default
 origslug: auswausnv_1
-slug: auswausnv_1
+
 
 ---
 

@@ -1,8 +1,8 @@
-Title: Gesetz zur Reform der Arbeitsförderung
+Title: Gesetz zur Reform der Arbeitsförderung88
 jurabk: AFRG
 layout: default
 origslug: afrg
-slug: afrg
+
 
 ---
 

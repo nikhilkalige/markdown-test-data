@@ -1,4 +1,4 @@
-Title: Abkommen zwischen der Bundesrepublik Deutschland und der Schweizerischen Eidgenossenschaft54
+Title: Abkommen zwischen der Bundesrepublik Deutschland und der Schweizerischen Eidgenossenschaft5424
   über die Haftung gegenüber Dritten auf dem Gebiet der Kernenergie
 jurabk: AtHaftAbk CHE
 layout: default

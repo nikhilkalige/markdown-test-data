@@ -1,8 +1,8 @@
-Title: Verordnung über die Berufsausbildung zum Augenoptiker und zur Augenoptikerin
+Title: Verordnung über die Berufsausbildung zum Augenoptiker und zur Augenoptikerin308
 jurabk: AugenoptAusbV
 layout: default
 origslug: augenoptausbv
-slug: augenoptausbv
+
 
 ---
 

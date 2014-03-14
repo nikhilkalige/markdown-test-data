@@ -1,8 +1,8 @@
-Title: Gesetz über die Verfrachtung alkoholischer Waren
+Title: Gesetz über die Verfrachtung alkoholischer Waren138
 jurabk: AlkoVerfrG
 layout: default
 origslug: alkoverfrg
-slug: alkoverfrg
+
 
 ---
 

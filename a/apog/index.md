@@ -1,8 +1,8 @@
-Title: Gesetz über das Apothekenwesen
+Title: Gesetz über das Apothekenwesen224
 jurabk: ApoG
 layout: default
 origslug: apog
-slug: apog
+
 
 ---
 

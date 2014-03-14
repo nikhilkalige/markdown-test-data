@@ -1,8 +1,8 @@
-Title: Verordnung über die Berufsausbildung zum Asphaltbauer
+Title: Verordnung über die Berufsausbildung zum Asphaltbauer260
 jurabk: AsphAusbV
 layout: default
 origslug: asphausbv
-slug: asphausbv
+
 
 ---
 

@@ -1,4 +1,4 @@
-Title: Verordnung über die Berufsausbildung zum Fachangestellten für Arbeitsmarktdienstleistungen
+Title: Verordnung über die Berufsausbildung zum Fachangestellten für Arbeitsmarktdienstleistungen708
   und zur Fachangestellten für Arbeitsmarktdienstleistungen
 jurabk: ArbMDFAngAusbV
 layout: default

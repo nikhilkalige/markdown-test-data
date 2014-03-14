@@ -1,8 +1,8 @@
-Title: Gesetz über die Rechtsverhältnisse der Mitglieder des Deutschen Bundestages
+Title: Gesetz über die Rechtsverhältnisse der Mitglieder des Deutschen Bundestages18
 jurabk: AbgG
 layout: default
 origslug: abgg
-slug: abgg
+
 
 ---
 

@@ -1,4 +1,4 @@
-Title: Verordnung über die Aussetzung der Rechnungsabschläge bei Arzneimitteln nach697
+Title: Verordnung über die Aussetzung der Rechnungsabschläge bei Arzneimitteln nach697704
   § 311a des Fünften Buches Sozialgesetzbuch
 jurabk: ArznRAV 1993-11
 layout: default

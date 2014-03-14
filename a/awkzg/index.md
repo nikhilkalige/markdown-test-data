@@ -1,8 +1,8 @@
-Title: Gesetz über den Außenwirtschafts-, Kapital- und Zahlungsverkehr
+Title: Gesetz über den Außenwirtschafts-, Kapital- und Zahlungsverkehr380
 jurabk: AWKZG
 layout: default
 origslug: awkzg
-slug: awkzg
+
 
 ---
 

@@ -1,8 +1,8 @@
-Title: Arzneimittelfarbstoffverordnung
+Title: Arzneimittelfarbstoffverordnung164
 jurabk: AMFarbV 2005
 layout: default
 origslug: amfarbv_2005
-slug: amfarbv_2005
+
 
 ---
 

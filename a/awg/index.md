@@ -1,8 +1,8 @@
-Title: Außenwirtschaftsgesetz
+Title: Außenwirtschaftsgesetz378
 jurabk: AWG
 layout: default
 origslug: awg
-slug: awg
+
 
 ---
 

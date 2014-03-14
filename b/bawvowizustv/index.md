@@ -1,4 +1,4 @@
-Title: Verordnung über die Zuständigkeit des Bundesamtes für Wehrverwaltung und der
+Title: Verordnung über die Zuständigkeit des Bundesamtes für Wehrverwaltung und der760
   Wehrbereichsverwaltungen für die Verfolgung und Ahndung von Ordnungswidrigkeiten
   nach dem Lebensmittel- und Futtermittelgesetzbuch und dem Tierschutzgesetz
 jurabk: BAWVOWiZustV

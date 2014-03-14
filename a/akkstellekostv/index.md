@@ -1,8 +1,8 @@
-Title: Kostenverordnung der Akkreditierungsstelle
+Title: Kostenverordnung der Akkreditierungsstelle124
 jurabk: AkkStelleKostV
 layout: default
 origslug: akkstellekostv
-slug: akkstellekostv
+
 
 ---
 

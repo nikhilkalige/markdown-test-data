@@ -1,8 +1,8 @@
-Title: Verordnung über die Verschreibungspflicht von Arzneimitteln
+Title: Verordnung über die Verschreibungspflicht von Arzneimitteln184
 jurabk: AMVV
 layout: default
 origslug: amvv
-slug: amvv
+
 
 ---
 

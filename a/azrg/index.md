@@ -1,8 +1,8 @@
-Title: Gesetz über das Ausländerzentralregister
+Title: Gesetz über das Ausländerzentralregister388
 jurabk: AZRG
 layout: default
 origslug: azrg
-slug: azrg
+
 
 ---
 

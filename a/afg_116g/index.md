@@ -1,8 +1,8 @@
-Title: Gesetz zur Sicherung der Neutralität der Bundesanstalt für Arbeit bei Arbeitskämpfen
+Title: Gesetz zur Sicherung der Neutralität der Bundesanstalt für Arbeit bei Arbeitskämpfen84
 jurabk: AFG§116G
 layout: default
 origslug: afg_116g
-slug: afg_116g
+
 
 ---
 

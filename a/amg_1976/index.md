@@ -1,8 +1,8 @@
-Title: Gesetz über den Verkehr mit Arzneimitteln
+Title: Gesetz über den Verkehr mit Arzneimitteln168
 jurabk: AMG 1976
 layout: default
 origslug: amg_1976
-slug: amg_1976
+
 
 ---
 

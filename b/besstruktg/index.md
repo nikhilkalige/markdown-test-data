@@ -1,8 +1,8 @@
-Title: Gesetz zur Modernisierung der Besoldungsstruktur
+Title: Gesetz zur Modernisierung der Besoldungsstruktur430
 jurabk: BesStruktG
 layout: default
 origslug: besstruktg
-slug: besstruktg
+
 
 ---
 

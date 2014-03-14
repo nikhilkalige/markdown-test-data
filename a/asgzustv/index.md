@@ -1,4 +1,4 @@
-Title: Verordnung zur Übertragung von Zuständigkeiten nach dem Arbeitssicherstellungsgesetz
+Title: Verordnung zur Übertragung von Zuständigkeiten nach dem Arbeitssicherstellungsgesetz806
   auf Dienststellen im Geschäftsbereich des Bundesministers der Verteidigung
 jurabk: ASGZustV
 layout: default

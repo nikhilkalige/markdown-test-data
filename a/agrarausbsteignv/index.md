@@ -1,4 +1,4 @@
-Title: Verordnung über die Eignung der Ausbildungsstätte für die Berufsausbildung706
+Title: Verordnung über die Eignung der Ausbildungsstätte für die Berufsausbildung706712
   zur Fachkraft Agrarservice
 jurabk: AgrarAusbStEignV
 layout: default

@@ -1,8 +1,8 @@
-Title: Gesetz zur beschleunigten Abwicklung einiger Altforderungen
+Title: Gesetz zur beschleunigten Abwicklung einiger Altforderungen142
 jurabk: AltfAbwG
 layout: default
 origslug: altfabwg
-slug: altfabwg
+
 
 ---
 

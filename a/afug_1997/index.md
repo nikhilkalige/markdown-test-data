@@ -1,8 +1,8 @@
-Title: Gesetz über den Amateurfunk
+Title: Gesetz über den Amateurfunk90
 jurabk: AFuG 1997
 layout: default
 origslug: afug_1997
-slug: afug_1997
+
 
 ---
 

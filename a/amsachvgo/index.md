@@ -1,4 +1,4 @@
-Title: Geschäftsordnung der Ausschüsse für Standardzulassungen, Apothekenpflicht und
+Title: Geschäftsordnung der Ausschüsse für Standardzulassungen, Apothekenpflicht und494
   Verschreibungspflicht (Anlage zur Verordnung zur Errichtung von Sachverständigen-Ausschüssen
   für Standardzulassungen, Apothekenpflicht und Verschreibungspflicht von Arzneimitteln)
 jurabk: AMSachvGO

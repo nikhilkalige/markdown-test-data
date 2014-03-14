@@ -1,8 +1,8 @@
-Title: Verordnung über die Aufhebung der Anerkennung von Ausbildungsberufen
+Title: Verordnung über die Aufhebung der Anerkennung von Ausbildungsberufen318
 jurabk: AusbBerAufhV 2001
 layout: default
 origslug: ausbberaufhv_2001
-slug: ausbberaufhv_2001
+
 
 ---
 

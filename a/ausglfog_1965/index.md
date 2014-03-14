@@ -1,8 +1,8 @@
-Title: Gesetz über die Tilgung von Ausgleichsforderungen
+Title: Gesetz über die Tilgung von Ausgleichsforderungen336
 jurabk: AusglFoG 1965
 layout: default
 origslug: ausglfog_1965
-slug: ausglfog_1965
+
 
 ---
 

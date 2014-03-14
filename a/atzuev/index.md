@@ -1,4 +1,4 @@
-Title: Verordnung für die Überprüfung der Zuverlässigkeit zum Schutz gegen Entwendung
+Title: Verordnung für die Überprüfung der Zuverlässigkeit zum Schutz gegen Entwendung660
   oder Freisetzung radioaktiver Stoffe nach dem Atomgesetz
 jurabk: AtZüV
 layout: default

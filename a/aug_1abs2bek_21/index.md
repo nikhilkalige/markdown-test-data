@@ -1,4 +1,4 @@
-Title: Einundzwanzigste Bekanntmachung über die Feststellung der Gegenseitigkeit gemäß
+Title: Einundzwanzigste Bekanntmachung über die Feststellung der Gegenseitigkeit gemäß478
   § 1 Abs. 2 des Auslandsunterhaltsgesetzes
 jurabk: AUG§1Abs2Bek 21
 layout: default

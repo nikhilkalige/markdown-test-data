@@ -1,4 +1,4 @@
-Title: Verordnung über die Gewährung von Steuerbefreiungen für Grundbesitz ausländischer
+Title: Verordnung über die Gewährung von Steuerbefreiungen für Grundbesitz ausländischer726
   Staaten, der für Wohnzwecke des Personals diplomatischer Missionen und konsularischer
   Vertretungen benutzt wird
 jurabk: AuslGrdBesStBefrV

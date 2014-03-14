@@ -1,8 +1,8 @@
-Title: Arbeitsgerichtsgesetz
+Title: Arbeitsgerichtsgesetz226
 jurabk: ArbGG
 layout: default
 origslug: arbgg
-slug: arbgg
+
 
 ---
 

@@ -1,8 +1,8 @@
-Title: Verordnung über radioaktive oder mit ionisierenden Strahlen behandelte Arzneimittel
+Title: Verordnung über radioaktive oder mit ionisierenden Strahlen behandelte Arzneimittel176
 jurabk: AMRadV
 layout: default
 origslug: amradv
-slug: amradv
+
 
 ---
 

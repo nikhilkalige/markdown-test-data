@@ -1,8 +1,8 @@
-Title: Allgemeines Gleichbehandlungsgesetz
+Title: Allgemeines Gleichbehandlungsgesetz98
 jurabk: AGG
 layout: default
 origslug: agg
-slug: agg
+
 
 ---
 

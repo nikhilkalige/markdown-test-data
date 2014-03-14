@@ -1,4 +1,4 @@
-Title: Verordnung über das Verfahren zur Bestimmung der Konjunkturkomponente nach
+Title: Verordnung über das Verfahren zur Bestimmung der Konjunkturkomponente nach682
   § 5 des Artikel 115-Gesetzes
 jurabk: Art115V
 layout: default

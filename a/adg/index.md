@@ -1,8 +1,8 @@
-Title: Gesetz über die Annahme als Kind und zur Änderung anderer Vorschriften
+Title: Gesetz über die Annahme als Kind und zur Änderung anderer Vorschriften48
 jurabk: AdG
 layout: default
 origslug: adg
-slug: adg
+
 
 ---
 

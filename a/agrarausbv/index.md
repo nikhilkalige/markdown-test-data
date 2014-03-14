@@ -1,8 +1,8 @@
-Title: Verordnung über die Berufsausbildung zur Fachkraft Agrarservice
+Title: Verordnung über die Berufsausbildung zur Fachkraft Agrarservice106
 jurabk: AgrarAusbV
 layout: default
 origslug: agrarausbv
-slug: agrarausbv
+
 
 ---
 

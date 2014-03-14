@@ -1,8 +1,8 @@
-Title: Gesetz zur Errichtung eines Fonds "Aufbauhilfe"
+Title: Gesetz zur Errichtung eines Fonds "Aufbauhilfe"306
 jurabk: AufhFG
 layout: default
 origslug: aufhfg
-slug: aufhfg
+
 
 ---
 

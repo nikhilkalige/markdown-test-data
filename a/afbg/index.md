@@ -1,8 +1,8 @@
-Title: Gesetz zur Förderung der beruflichen Aufstiegsfortbildung
+Title: Gesetz zur Förderung der beruflichen Aufstiegsfortbildung78
 jurabk: AFBG
 layout: default
 origslug: afbg
-slug: afbg
+
 
 ---
 

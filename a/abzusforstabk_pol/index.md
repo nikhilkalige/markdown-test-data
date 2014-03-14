@@ -1,4 +1,4 @@
-Title: Abkommen zwischen der Bundesrepublik Deutschland und der Republik Polen über48
+Title: Abkommen zwischen der Bundesrepublik Deutschland und der Republik Polen über4822
   den Autobahnzusammenschluß sowie über den Bau und den Umbau einer Grenzbrücke im
   Raum Forst und Erlenholz (Olszyna)
 jurabk: ABZusForstAbk POL

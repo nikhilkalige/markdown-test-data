@@ -1,4 +1,4 @@
-Title: Fünfzehnte Bekanntmachung über die Feststellung der Gegenseitigkeit gemäß §
+Title: Fünfzehnte Bekanntmachung über die Feststellung der Gegenseitigkeit gemäß §492
   1 Abs. 2 des Auslandsunterhaltsgesetzes
 jurabk: AUG§1Abs2Bek 15
 layout: default

@@ -1,4 +1,4 @@
-Title: Gesetz zu dem Stabilisierungs- und Assoziierungsabkommen zwischen den Europäischen
+Title: Gesetz zu dem Stabilisierungs- und Assoziierungsabkommen zwischen den Europäischen548
   Gemeinschaften und ihren Mitgliedstaaten einerseits und der Republik Albanien andererseits
 jurabk: AssoziierungsAbkEG/ALBG
 layout: default

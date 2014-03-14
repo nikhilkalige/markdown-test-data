@@ -1,8 +1,8 @@
-Title: Verordnung zur Übertragung von Aufgaben der Oberfinanzdirektion Karlsruhe
+Title: Verordnung zur Übertragung von Aufgaben der Oberfinanzdirektion Karlsruhe304
 jurabk: AufgÜbertrV OFD Karlsr
 layout: default
 origslug: aufg_bertrv_ofd_karlsr
-slug: aufguebertrv_ofd_karlsr
+
 
 ---
 

@@ -1,8 +1,8 @@
-Title: Gesetz zur Regelung bestimmter Altforderungen
+Title: Gesetz zur Regelung bestimmter Altforderungen144
 jurabk: AltFRG
 layout: default
 origslug: altfrg
-slug: altfrg
+
 
 ---
 

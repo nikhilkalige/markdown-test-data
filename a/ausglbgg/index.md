@@ -1,8 +1,8 @@
-Title: Gesetz über einen Ausgleich für Dienstbeschädigungen im Beitrittsgebiet
+Title: Gesetz über einen Ausgleich für Dienstbeschädigungen im Beitrittsgebiet334
 jurabk: AusglBGG
 layout: default
 origslug: ausglbgg
-slug: ausglbgg
+
 
 ---
 

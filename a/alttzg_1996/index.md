@@ -1,8 +1,8 @@
-Title: Altersteilzeitgesetz
+Title: Altersteilzeitgesetz152
 jurabk: AltTZG 1996
 layout: default
 origslug: alttzg_1996
-slug: alttzg_1996
+
 
 ---
 

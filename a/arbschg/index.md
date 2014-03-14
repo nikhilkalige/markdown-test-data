@@ -1,4 +1,4 @@
-Title: Gesetz über die Durchführung von Maßnahmen des Arbeitsschutzes zur Verbesserung
+Title: Gesetz über die Durchführung von Maßnahmen des Arbeitsschutzes zur Verbesserung506
   der Sicherheit und des Gesundheitsschutzes der Beschäftigten bei der Arbeit
 jurabk: ArbSchG
 layout: default

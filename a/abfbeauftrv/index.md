@@ -1,8 +1,8 @@
-Title: Verordnung über Betriebsbeauftragte für Abfall
+Title: Verordnung über Betriebsbeauftragte für Abfall14
 jurabk: AbfBeauftrV
 layout: default
 origslug: abfbeauftrv
-slug: abfbeauftrv
+
 
 ---
 

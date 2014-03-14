@@ -1,8 +1,8 @@
-Title: Allgemeine Waffengesetz-Verordnung
+Title: Allgemeine Waffengesetz-Verordnung376
 jurabk: AWaffV
 layout: default
 origslug: awaffv
-slug: awaffv
+
 
 ---
 

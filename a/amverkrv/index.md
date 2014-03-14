@@ -1,8 +1,8 @@
-Title: Verordnung über apothekenpflichtige und freiverkäufliche Arzneimittel
+Title: Verordnung über apothekenpflichtige und freiverkäufliche Arzneimittel182
 jurabk: AMVerkRV
 layout: default
 origslug: amverkrv
-slug: amverkrv
+
 
 ---
 

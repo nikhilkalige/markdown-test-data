@@ -1,8 +1,8 @@
-Title: Vierte Verordnung über die Aufhebung der Anerkennung von Ausbildungsberufen
+Title: Vierte Verordnung über die Aufhebung der Anerkennung von Ausbildungsberufen322
 jurabk: AusbBerAufhV 4
 layout: default
 origslug: ausbberaufhv_4
-slug: ausbberaufhv_4
+
 
 ---
 

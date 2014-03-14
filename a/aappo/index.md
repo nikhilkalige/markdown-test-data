@@ -1,8 +1,8 @@
-Title: Approbationsordnung für Apotheker
+Title: Approbationsordnung für Apotheker4
 jurabk: AAppO
 layout: default
 origslug: aappo
-slug: aappo
+
 
 ---
 

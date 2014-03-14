@@ -1,8 +1,8 @@
-Title: Erlaß über die Amtsschilder der Bundesbehörden
+Title: Erlaß über die Amtsschilder der Bundesbehörden180
 jurabk: AmtsschErl
 layout: default
 origslug: amtsscherl
-slug: amtsscherl
+
 
 ---
 

@@ -1,8 +1,8 @@
-Title: Verordnung zum Gesetz über den Amateurfunk
+Title: Verordnung zum Gesetz über den Amateurfunk92
 jurabk: AFuV 2005
 layout: default
 origslug: afuv_2005
-slug: afuv_2005
+
 
 ---
 

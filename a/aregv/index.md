@@ -1,8 +1,8 @@
-Title: Verordnung über die Anreizregulierung der Energieversorgungsnetze
+Title: Verordnung über die Anreizregulierung der Energieversorgungsnetze248
 jurabk: ARegV
 layout: default
 origslug: aregv
-slug: aregv
+
 
 ---
 

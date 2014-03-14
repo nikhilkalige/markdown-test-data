@@ -1,4 +1,4 @@
-Title: Gesetz über die Gemeinschaftsaufgabe "Verbesserung der Agrarstruktur und des
+Title: Gesetz über die Gemeinschaftsaufgabe "Verbesserung der Agrarstruktur und des512
   Küstenschutzes"
 jurabk: AgrStruktG
 layout: default

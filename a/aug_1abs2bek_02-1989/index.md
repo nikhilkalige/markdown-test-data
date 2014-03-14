@@ -1,4 +1,4 @@
-Title: Sechste Bekanntmachung über die Feststellung der Gegenseitigkeit gemäß § 1
+Title: Sechste Bekanntmachung über die Feststellung der Gegenseitigkeit gemäß § 1638
   Abs. 2 des Auslandsunterhaltsgesetzes
 jurabk: AUG§1Abs2Bek 02-1989
 layout: default

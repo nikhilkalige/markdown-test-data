@@ -1,4 +1,4 @@
-Title: Elfte Bekanntmachung über die Feststellung der Gegenseitigkeit gemäß § 1 Abs.
+Title: Elfte Bekanntmachung über die Feststellung der Gegenseitigkeit gemäß § 1 Abs.480
   2 des Auslandsunterhaltsgesetzes
 jurabk: AUG§1Abs2Bek 11
 layout: default

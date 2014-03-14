@@ -1,8 +1,8 @@
-Title: Verordnung über das Auslandstrennungsgeld
+Title: Verordnung über das Auslandstrennungsgeld280
 jurabk: ATGV 1991
 layout: default
 origslug: atgv_1991
-slug: atgv_1991
+
 
 ---
 
